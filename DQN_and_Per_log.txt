@@ -1,0 +1,6 @@
+
+run time: 2020-10-17 08:52:57.874013 if prioritized: False, total steps: 100000, exploration fraction: 0.4final step: 37156, episode: 759, epsilon: 0.16399000000000008lr: 0.0005, batch size: 64, buffer size: 524288
+run time: 2020-10-17 09:09:58.160014 if prioritized: False, total steps: 100000, exploration fraction: 0.4final step: 58159, episode: 850, epsilon: 0.09999999999999998lr: 0.0005, batch size: 64, buffer size: 524288
+run time: 2020-10-17 12:55:31.745295 if prioritized: False, total steps: 100000, exploration fraction: 0.4final step: 55016, episode: 950, epsilon: 0.09999999999999998lr: 0.0005, batch size: 64, buffer size: 524288
+run time: 2020-10-17 13:33:46.331413 if prioritized: True, total steps: 100000, exploration fraction: 0.4final step: 99999, episode: 1552, epsilon: 0.09999999999999998lr: 0.0005, batch size: 64, buffer size: 524288
+run time: 2020-10-17 17:31:45.520877 if prioritized: True, total steps: 100000, exploration fraction: 0.4final step: 85796, episode: 1389, epsilon: 0.09999999999999998lr: 0.0005, batch size: 64, buffer size: 524288
